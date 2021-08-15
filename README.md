@@ -42,9 +42,7 @@
 
 <br/>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha2002&show_icons=true&locale=en&layout=compact" alt="poojitha2002" /></p>
-<br/>
+ 
   [![Poojitha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=poojitha2002&theme=xcode)](https://git.io/poojitha2002)
    <br />
    <br />
