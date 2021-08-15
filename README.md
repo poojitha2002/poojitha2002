@@ -38,8 +38,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)<br/><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha2002&show_icons=true&locale=en&layout=compact" alt="poojitha2002" /></p>
 <br/>
 
  
@@ -48,6 +48,4 @@
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poojitha2002&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
-   <br />
-  ![Skyline](https://github.com/poojitha2002/poojitha2002/blob/master/github-metrics.svg)
-
+   <br />  
