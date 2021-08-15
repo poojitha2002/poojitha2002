@@ -1,32 +1,55 @@
-<h1 align="center">Hi 👋, I'm Poojitha</h1>
-<h3 align="center">A passionate Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojitha2002&label=Profile%20views&color=0e75b6&style=flat" alt="poojitha2002" /> </p>
+<h1 align="center">Hey, I'm Poojitha <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Changing the world one pixel at a time!</h2>
 
-- 👨‍💻 All of my projects are available at [https://poojitha2002.github.io/Portfolio/](https://poojitha2002.github.io/Portfolio/)
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+ 
+   
+   ## :wave: About Me 
+<a href="https://www.linkedin.com/in/poojitha-ravuri-a74262199/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="LinkedIn" align="right"></a>
+👩‍🎓 Hey! I'm Poojitha, a 19 year old Research Intern at [**Samsung**](https://github.com/samsung) working out of Andhra Pradesh, India. 
 
-- 📫 How to reach me **ravuri.poojitha123@gmail.com**
+:octocat: I have a soft spot for technology and communities 💖 I had successfully merged four pull requests in Hacktober Fest (My first open source contribution!):octocat:! 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+💖 I’m also working as SDE Intern at [**AppViewX**](https://github.com/appviewx) and as a mentor at [**Edyst**](https://github.com/edyst)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/poojitha-ravuri-a74262199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ravuri-venkata-surya-sai-krishna-poojitha-a74262199/" height="30" width="40" /></a>
-<a href="https://medium.com/@ravuri-poojitha123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ravuri-poojitha123" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/poojitha_792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojitha_792" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/poojithaklu792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="poojithaklu792" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/poojitha_792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="poojitha_792" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/poojitha_792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="poojitha_792" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@poojitha196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@poojitha196" height="30" width="40" /></a>
-</p>
+👩‍💻 Nowadays, I’m learning Spring and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/poojitha_792/) and always up for quick coding brainstorming sessions! 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
+ 
+<br> 
+
+## 🛠 &nbsp;Tech Stack
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) 
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha2002&show_icons=true&locale=en&layout=compact" alt="poojitha2002" /></p>
+<br/>
+  [![Poojitha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=poojitha2002&theme=xcode)](https://git.io/poojitha2002)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=poojitha2002&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
+  ![Skyline](https://github.com/poojitha2002/poojitha2002/blob/master/github-metrics.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojitha2002&show_icons=true&locale=en" alt="poojitha2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojitha2002&" alt="poojitha2002" /></p>
